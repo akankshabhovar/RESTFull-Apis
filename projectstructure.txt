@@ -1,0 +1,23 @@
+.
+├── .env
+├── .gitignore
+├── package.json
+├── README.md
+├── src/
+│   ├── config/
+│   │   └── database.js
+│   ├── controllers/
+│   │   ├── authController.js
+│   │   ├── bookController.js
+│   │   └── reviewController.js
+│   ├── middleware/
+│   │   └── auth.js
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Book.js
+│   │   └── Review.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   ├── books.js
+│   │   └── reviews.js
+│   └── app.js

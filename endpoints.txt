@@ -1,0 +1,11 @@
+POST /api/signup
+POST /api/login
+
+GET /api/books?page=1&limit=10&author=AuthorName&genre=Genre
+GET /api/books/:id
+POST /api/books
+GET /api/search?q=searchterm
+
+POST /api/books/:id/reviews
+PUT /api/reviews/:id
+DELETE /api/reviews/:id
