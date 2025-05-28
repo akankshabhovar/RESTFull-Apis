@@ -23,6 +23,7 @@ A RESTful API for a Book Review system built with Node.js, Express, and MongoDB.
    ```bash
    npm install
 3. Start Project
+   ```bash
    npm start
-4. API Doc
+5. API Doc
    http://localhost:3000/api-docs
